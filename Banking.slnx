@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Models/">
+    <File Path="Currency.cs" />
+    <File Path="Expense.cs" />
+    <File Path="User.cs" />
+    <File Path="Wallet.cs" />
+  </Folder>
+  <Project Path="Banking/Banking.csproj" />
+</Solution>
